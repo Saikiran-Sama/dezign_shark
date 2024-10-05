@@ -1,0 +1,23 @@
+#head4{
+    text-align: center;
+    font-weight: 600;
+}
+#sec6{
+    width: 80%;
+    height: 350px;
+    position: relative;
+    left: 10%;
+    display: flex;
+    justify-content: space-around;
+    background-color: whitesmoke;
+    padding-top: 30px;
+    
+}
+#sec6 h2{
+    font-weight: 600;
+}
+#sec6 p{
+    line-height: 2.2rem;
+    font-size: 19px;
+}
+

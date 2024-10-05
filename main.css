@@ -1,0 +1,16 @@
+@import "./nav.css";
+@import "./header.css";
+@import "./section1.css";
+@import "./section2.css";
+@import "./section3.css";
+@import "./section4.css";
+@import "./section5.css";
+@import "./section6.css";
+@import "./footer.css";
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Source Sans Pro', Arial, sans-serif;
+    position: relative;
+}

@@ -1,0 +1,18 @@
+footer{
+    background-color: black;
+    
+}
+footer article{
+    color: white;
+}
+#footer{
+    height: 400px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+}
+footer article i{
+    color: white;
+    font-size: 30px;
+}

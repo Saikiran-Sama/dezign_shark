@@ -1,0 +1,28 @@
+#sec2{
+    width: 80%;
+    height: 500px;
+    margin-left: 10%;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    /* background-color: whitesmoke; */
+    position: relative;
+}
+#img6{
+    height: 450px;
+    border: 2px solid whitesmoke;
+    border-radius: 5px;
+    padding: 0px;
+    position: relative;
+}
+#sub-sec2{
+    font-weight: 800;
+    list-style: 2rem;
+    position: relative;
+}
+#list1{
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 2.2rem;
+    position: relative;
+}

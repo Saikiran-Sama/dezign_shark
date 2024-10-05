@@ -1,0 +1,37 @@
+#sub-head{
+    border: 1px solid whitesmoke;
+    list-style: none;
+    width: 100%;
+    display: flex;
+    gap: 20px;
+    font-size: 25px;
+    font-family: 'Nunito', sans-serif;
+    color: #000000;
+    font-size: 18px;
+    font-weight: 600;
+    height: 55px;
+    padding-top: 20px;
+    background-color: white;
+    position: relative;
+   
+}
+#sub-head li{
+    position: relative;
+    left: 60px;
+    
+    
+}
+a{
+    text-decoration: none;
+    color: #000000;
+}
+
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+
+
+

@@ -1,0 +1,36 @@
+#section3{
+    background-color: #ffffff;
+    border: 1px solid whitesmoke;
+    position: relative;
+}
+#sec3{
+    width: 80%;
+    height: 500px;
+    margin-left: 10%;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    /* background-color: whitesmoke; */
+    position: relative;
+}
+#img7{
+    height: 450px;
+    width: 450px;
+    border: 2px solid whitesmoke;
+    border-radius: 5px;
+    padding: 0px;
+    position: relative;
+}
+#about{
+    font-weight: 700;
+    position: relative;
+
+}
+#para1{
+    line-height: 1.85rem;
+    position: relative;
+}
+#para2{
+    line-height: 1.85rem;
+    position: relative;
+}
